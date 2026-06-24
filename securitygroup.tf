@@ -1,5 +1,5 @@
 resource "aws_security_group" "georgeapp" {
-    name        = "georgeapp"
+    name        = "iheapp"
     description = "Security group for georgeapp instance"
     vpc_id      = "vpc-0f8ffa69427e755ff"
 
